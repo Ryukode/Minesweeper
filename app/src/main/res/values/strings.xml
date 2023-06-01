@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="lose_msg">You Lose! :(</string>
+    <string name="win_msg">You Win! :)</string>
+    <string name="set_flags">Set Flags:</string>
+    <string name="welcome_message">Welcome to MineSweeper</string>
+    <string name="reset">reset</string>
+    <string name="flag">Flag</string>
+</resources>
